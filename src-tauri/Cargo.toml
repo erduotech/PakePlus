@@ -1,6 +1,6 @@
 [package]
 name = "EdzbeCom"
-version = "1.0.1"
+version = "2.1.3"
 description = "耳朵的主人，以期刊的形式分享歌特、厄运、朋克、流行、后摇、重金属等小众风格音乐的电台博客，庆幸我还有耳朵，还可以是耳朵的主人。"
 authors = ["1024xiaoshen"]
 edition = "2021"
